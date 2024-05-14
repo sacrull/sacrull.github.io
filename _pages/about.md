@@ -18,10 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a microbiologist interested in how microbes can be manipulated to help improve human health. My research is focused on the interaction between cross-kingdom microbes in diverse host microbiomes including oral and water cooling towers. 
+I'm a microbiologist interested in how microbes can be manipulated to help improve human health. My research is focused on the interaction between cross-kingdom microbes in diverse host microbiomes including oral and water cooling towers.
 
-Currently a graduate student at Clemson University studying oral microbiota in 
+Currently a graduate student at Clemson University studying oral microbiota in
 children living with HIV and urogenital microbiota in postmenopausal women with recurrent UTIs. I am in [Dr. Richards' lab](http://www.vprichards-lab.com/).
+
 #### cool things I'm working on now:
 
   <a href="https://github.com/sacrull/pom_study">
@@ -33,6 +34,7 @@ children living with HIV and urogenital microbiota in postmenopausal women with 
 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rpoCdb&repo=rpoCdatabase&bg_color=010101&title_color=FFFFFF&hide_border=false&icon_color=B381F1&show_icons=true&text_color=ffffff">
 
 #### skills:
+
 <img align="left" alt="bash" src="https://img.shields.io/badge/Bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
 <img align="left" alt="r" src="https://img.shields.io/badge/R%20-171A21.svg?&style=for-the-badge&logo=r&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/Python%20-171A21.svg?&style=for-the-badge&logo=python&logoColor=white" />
