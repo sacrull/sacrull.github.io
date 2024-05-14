@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-04-25 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our research was featured on the local Fox Carolina News Station. [Watch the interview here!](https://www.foxcarolina.com/2024/04/25/clemson-university-researchers-working-probiotic-fight-cavities/)
