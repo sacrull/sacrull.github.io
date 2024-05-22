@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a microbiologist interested in how microbes can be manipulated to help improve human health. My research is focused on the interaction between cross-kingdom microbes in diverse host microbiomes including oral and water cooling towers.
+THIS WEBSITE IS UNDERCONSTRUCTION:I'm a microbiologist interested in how microbes can be manipulated to help improve human health. My research is focused on the interaction between cross-kingdom microbes in diverse host microbiomes including oral and water cooling towers.
 
 Currently a graduate student at Clemson University studying oral microbiota in
 children living with HIV and urogenital microbiota in postmenopausal women with recurrent UTIs. I am in [Dr. Richards' lab](http://www.vprichards-lab.com/).
